@@ -3,5 +3,8 @@
   "eslint.autoFixOnSave": true,
   "editor.formatOnSave": true,
   "prettier.arrowParens": "always",
-  "prettier.singleQuote": true
+  "prettier.singleQuote": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
 }
